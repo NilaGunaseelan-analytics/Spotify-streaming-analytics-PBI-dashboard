@@ -28,5 +28,5 @@ Observed listener behavior patterns using audio feature analysis.
 
 Dashboard Preview
 
-![Dashboard Preview](![Dashboard Preview](dashboard-preview.png))
+![Dashboard Preview](![Dashboard Preview]([dashboard-preview.png](https://github.com/NilaGunaseelan-analytics/Spotify-streaming-analytics-PBI-dashboard/blob/main/Spotify-streaming-analytics.png?raw=true)))
 
