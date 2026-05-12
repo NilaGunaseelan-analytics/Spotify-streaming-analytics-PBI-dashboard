@@ -1,6 +1,6 @@
-# Spotify-streaming-analytics-PBI-dashboard
+**Spotify Streaming Analytics Dashboard**
 
-Project Overview
+**Project Overview**
 
 This project is an interactive Power BI dashboard developed to analyze Spotify streaming data and music track performance. The dashboard provides insights into streaming trends, artist popularity, audio characteristics, and track engagement metrics.
 
