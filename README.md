@@ -26,3 +26,7 @@ Analyzed music characteristics such as danceability and energy.
 Compared artist popularity and release year trends. 
 Observed listener behavior patterns using audio feature analysis. 
 
+Dashboard Preview
+
+![Dashboard Preview](![Dashboard Preview](dashboard-preview.png))
+
